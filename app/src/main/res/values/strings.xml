@@ -6,5 +6,6 @@
     <string name="action_settings">Settings</string>
     <string name="roll_label">Roll</string>
     <string name="refresh">Refresh</string>
+    <string name="textview">TextView</string>
 
 </resources>
